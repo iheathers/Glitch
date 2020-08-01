@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Glitch/static/js/main.3c9883d9.chunk.js",
+    "main.js.map": "/Glitch/static/js/main.3c9883d9.chunk.js.map",
+    "runtime-main.js": "/Glitch/static/js/runtime-main.7ab46177.js",
+    "runtime-main.js.map": "/Glitch/static/js/runtime-main.7ab46177.js.map",
+    "static/js/2.c9a6ebeb.chunk.js": "/Glitch/static/js/2.c9a6ebeb.chunk.js",
+    "static/js/2.c9a6ebeb.chunk.js.map": "/Glitch/static/js/2.c9a6ebeb.chunk.js.map",
+    "index.html": "/Glitch/index.html",
+    "precache-manifest.9b211b6182a9fec8d4c814331978c376.js": "/Glitch/precache-manifest.9b211b6182a9fec8d4c814331978c376.js",
+    "service-worker.js": "/Glitch/service-worker.js",
+    "static/js/2.c9a6ebeb.chunk.js.LICENSE.txt": "/Glitch/static/js/2.c9a6ebeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ab46177.js",
+    "static/js/2.c9a6ebeb.chunk.js",
+    "static/js/main.3c9883d9.chunk.js"
+  ]
+}
